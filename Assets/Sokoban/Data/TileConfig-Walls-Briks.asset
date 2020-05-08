@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f91d8466d189407c90517b2cd0ba4ee8, type: 3}
+  m_Name: TileConfig-Walls-Briks
+  m_EditorClassIdentifier: 
+  tileType: 2
+  tileMaterialConfig: {fileID: 11400000, guid: d850fe0896c93496db0c96b36b9ccaa8, type: 2}
